@@ -6,6 +6,9 @@ const AFile = (props) => {
             <h2>
                 Hello World is here
             </h2>
+            <p>
+                Data is important resource. Utilize properly
+            </p>
         </React.Fragment>
     )
 }
